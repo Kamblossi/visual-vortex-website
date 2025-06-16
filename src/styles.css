@@ -200,7 +200,7 @@ h1{
   height: auto;
   font-style: normal;
   font-weight: 700;
-  font-size: clamp(6rem, 10vw, 9rem);
+  font-size: clamp(4rem, 8vw, 7rem);
   line-height: 0.9;
   letter-spacing: -0.02em;
   color: #181818;
@@ -558,7 +558,7 @@ h1{
     left: unset;
     width: unset;
     height: unset;
-    font-size: 7em;
+    font-size: 4.5em;
     line-height: 1em;
     letter-spacing: -0.01em;
     margin-bottom: 30vh;
