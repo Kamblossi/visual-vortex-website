@@ -261,7 +261,7 @@ html, body {
     })
 
     // KNOW MORE EVENT
-    document.querySelector('.button-know-more')?.addEventListener('click', () => {
+    document.querySelector('.hero-explore-button')?.addEventListener('click', () => {
         const element = document.querySelector('.cam-view-2')
         window.scrollTo({top: element?.getBoundingClientRect().top, left: 0, behavior: 'smooth'})
     })
